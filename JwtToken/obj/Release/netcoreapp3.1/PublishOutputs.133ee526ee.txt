@@ -1,0 +1,15 @@
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\JwtToken.exe
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\JwtToken.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\JwtToken.deps.json
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\JwtToken.runtimeconfig.json
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\JwtToken.pdb
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\Practice\JwtToken\JwtToken\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll

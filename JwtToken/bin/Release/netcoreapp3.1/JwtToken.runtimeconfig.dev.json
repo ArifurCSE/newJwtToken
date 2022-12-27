@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pridesys\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pridesys\\.nuget\\packages"
+    ]
+  }
+}
