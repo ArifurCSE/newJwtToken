@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3jRTlVkorrTcMMDXoky5zO3t82ymEVm0YQVNCRIs0oS8JKVjH6dlL3dobrI5WGdu61uC+gpEv9wQYLR9d8syIQ==",
+  "dgSpecHash": "NYhqrsfOqkbUSV7KymMw2NeOz1bvNReq8u/laMOzqM5h8QzcG89y9rsFMOAG0XpvDsZFGAMC2k+j93sXfj9kLg==",
   "success": true,
-  "projectFilePath": "D:\\Practice\\JwtToken\\JwtToken\\JwtToken.csproj",
+  "projectFilePath": "D:\\Practice\\newJwtToken\\JwtToken\\JwtToken.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pridesys\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.20\\microsoft.aspnetcore.authentication.jwtbearer.3.1.20.nupkg.sha512",
     "C:\\Users\\Pridesys\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

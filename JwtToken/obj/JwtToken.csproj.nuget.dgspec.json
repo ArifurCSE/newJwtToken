@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\JwtToken\\JwtToken\\JwtToken.csproj": {}
+    "D:\\Practice\\newJwtToken\\JwtToken\\JwtToken.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\JwtToken\\JwtToken\\JwtToken.csproj": {
+    "D:\\Practice\\newJwtToken\\JwtToken\\JwtToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\JwtToken\\JwtToken\\JwtToken.csproj",
+        "projectUniqueName": "D:\\Practice\\newJwtToken\\JwtToken\\JwtToken.csproj",
         "projectName": "JwtToken",
-        "projectPath": "D:\\Practice\\JwtToken\\JwtToken\\JwtToken.csproj",
+        "projectPath": "D:\\Practice\\newJwtToken\\JwtToken\\JwtToken.csproj",
         "packagesPath": "C:\\Users\\Pridesys\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\JwtToken\\JwtToken\\obj\\",
+        "outputPath": "D:\\Practice\\newJwtToken\\JwtToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pridesys\\AppData\\Roaming\\NuGet\\NuGet.Config",
