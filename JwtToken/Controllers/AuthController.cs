@@ -26,7 +26,7 @@ namespace JwtToken.Controllers
             _config = config;
         }
         [AllowAnonymous]
-        [HttpPost]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody]UserLoginModel userLogin)
         {
             var user = Authenticate(userLogin);
@@ -34,6 +34,20 @@ namespace JwtToken.Controllers
             {
                 var token = Generate(user);
                 return Ok(new { token=token });
+            }
+            return NotFound();
+        }
+        [AllowAnonymous]
+        [HttpPost("GetSSN")]
+        public async Task<IActionResult> GetSSN([FromBody] UserLoginModel userLogin)
+        {
+            var user = Authenticate(userLogin);
+            if (user != null)
+            {
+                //var token = Generate(user);
+                Random random = new Random();
+                var r = random.Next(1, 10).ToString();
+                return Ok(new OrgResponseViewModel (){ SSN = "TAH"+ random.Next(1,9999).ToString(), InsuranceType="INSC" });
             }
             return NotFound();
         }

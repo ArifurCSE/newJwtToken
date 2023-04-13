@@ -2,6 +2,12 @@
 
 namespace JwtToken.Models
 {
+    public class OrgResponseViewModel
+    {
+        public string SSN { get; set; }
+        public string InsuranceType { get; set; }
+
+    }
     public class GovtInfoAPIViewModel
     {
         public GovtInfoAPIViewModel()
