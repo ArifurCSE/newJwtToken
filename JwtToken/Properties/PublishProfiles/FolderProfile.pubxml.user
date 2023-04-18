@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>F:\Office\newJwtToken\JwtToken\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
-    <History>True|2023-04-13T11:01:20.1076370Z;True|2022-12-27T13:37:41.5135580+06:00;True|2022-12-27T13:34:13.1864565+06:00;True|2022-12-27T13:23:05.4022163+06:00;True|2022-12-27T13:22:43.0731666+06:00;</History>
+    <History>True|2023-04-18T07:06:54.9949755Z;True|2023-04-13T17:01:20.1076370+06:00;True|2022-12-27T13:37:41.5135580+06:00;True|2022-12-27T13:34:13.1864565+06:00;True|2022-12-27T13:23:05.4022163+06:00;True|2022-12-27T13:22:43.0731666+06:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
