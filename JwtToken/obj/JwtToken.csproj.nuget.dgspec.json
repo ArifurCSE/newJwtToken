@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Office\\newJwtToken\\JwtToken\\JwtToken.csproj": {}
+    "D:\\Development_Project\\newJwtToken\\JwtToken\\JwtToken.csproj": {}
   },
   "projects": {
-    "F:\\Office\\newJwtToken\\JwtToken\\JwtToken.csproj": {
+    "D:\\Development_Project\\newJwtToken\\JwtToken\\JwtToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Office\\newJwtToken\\JwtToken\\JwtToken.csproj",
+        "projectUniqueName": "D:\\Development_Project\\newJwtToken\\JwtToken\\JwtToken.csproj",
         "projectName": "JwtToken",
-        "projectPath": "F:\\Office\\newJwtToken\\JwtToken\\JwtToken.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\Office\\newJwtToken\\JwtToken\\obj\\",
+        "projectPath": "D:\\Development_Project\\newJwtToken\\JwtToken\\JwtToken.csproj",
+        "packagesPath": "C:\\Users\\Arifur\\.nuget\\packages\\",
+        "outputPath": "D:\\Development_Project\\newJwtToken\\JwtToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arifur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,24 +64,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -90,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
